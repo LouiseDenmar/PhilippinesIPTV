@@ -1,0 +1,59 @@
+#EXTINF:-1 radio="true" tvg-id="875Republ1kaFM1" tvg-name="87.5 Republ1ka FM1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Fm1ph-logo.png" group-title="FM",87.5 Republ1ka FM1
+http://122.53.138.32:8000/dzrm.mp3
+
+#EXTINF:-1 radio="true" tvg-id="Jam883" tvg-name="Jam 88.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jam_88.3_logo_2012.png/800px-Jam_88.3_logo_2012.png" group-title="FM",Jam 88.3
+http://ph-icecast.eradioportal.com:8000/jam883
+
+#EXTINF:-1 radio="true" tvg-id="907LoveRadio" tvg-name="90.7 Love Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/1200px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="FM",90.7 Love Radio
+https://s3.radio.co/sd43d6cc6d/listen
+
+#EXTINF:-1 radio="true" tvg-id="915WinRadio" tvg-name="91.5 Win Radio" tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg" group-title="FM",91.5 Win Radio
+https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1uDqRGfyGA&rj-ttl=5&rj-tok=AAABgfs21scAvxjFA2IsU9lIYA
+
+#EXTINF:-1 radio="true" tvg-id="MonsterRX931" tvg-name="Monster RX 93.1" tvg-logo="https://www.rx931.com/_nuxt/img/logo.962a9d7.png" group-title="FM",Monster RX 93.1
+https://ph-icecast-win.eradioportal.com:8443/monsterrx
+
+#EXTINF:-1 radio="true" tvg-id="IFM" tvg-name="93.9 iFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/93.9_iFM_Logo_2018.png/120px-93.9_iFM_Logo_2018.png" group-title="FM",93.9 iFM
+https://magic.radioca.st/stream
+
+#EXTINF:-1 radio="true" tvg-id="Mellow947" tvg-name="Mellow 94.7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Mellow_947.png" group-title="FM",Mellow 94.7
+https://s3.free-shoutcast.com/stream/18342/
+
+#EXTINF:-1 radio="true" tvg-id="963EasyRock" tvg-name="96.3 Easy Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Easy_Rock_Logo_2009.png" group-title="FM",96.3 Easy Rock
+https://s4.radio.co/s778110174/listen
+
+#EXTINF:-1 radio="true" tvg-id="97.9 Home Radio" tvg-name="97.9 Home Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HOME-RADIO-LOGO-2017.png" group-title="FM",97.9 Home Radio
+http://149.56.147.197:9071/stream
+
+#EXTINF:-1 radio="true" tvg-id="987DZFE" tvg-name="98.7 DZFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DZFE.svg/1200px-DZFE.svg.png" group-title="FM",98.7 DZFE
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
+#EXTINF:-1 radio="true" tvg-id="995PlayFM" tvg-name="99.5 Play FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/99.5_Play_FM.png" group-title="FM",99.5 Play FM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.twitch.tv/995playfm
+
+#EXTINF:-1 radio="true" tvg-id="1003RJFM" tvg-name="100.3 RJFM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Rj_100.jpg/200px-Rj_100.jpg" group-title="FM",100.3 RJFM
+http://111.125.87.226:8000/streamfm
+
+#EXTINF:-1 radio="true" tvg-id="1011YesTheBest" tvg-name="101.1 Yes The Best!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Yes_The_Best_2021_Logo.png" group-title="FM",101.1 Yes The Best!
+https://s2.radio.co/sa85100da7/listen
+
+#EXTINF:-1 radio="true" tvg-id="KLite1035" tvg-name="K-Lite 103.5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/K-LITE_1035_new.png" group-title="FM",K-Lite 103.5
+https://streamingv2.shoutcast.com/1035Klite
+
+#EXTINF:-1 radio="true" tvg-id="1043CAPITALFM2" tvg-name="104.3 Capital FM2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Fm2ph-logo.png" group-title="FM",104.3 Capital FM2
+http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-1 radio="true" tvg-id="QRadio1051" tvg-name="Q-Radio 105.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Q105.1_Manila_logo.png" group-title="FM",Q-Radio 105.1
+http://sg-icecast.eradioportal.com:8000/q105
+
+#EXTINF:-1 radio="true" tvg-id="1067EnergyFM" tvg-name="106.7 Energy FM" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c8/106.7_Energy_FM_Logo_2014.png" group-title="FM",106.7 Energy FM
+http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+#EXTINF:-1 radio="true" tvg-id="BibleRadio" tvg-name="DZBR Bible Radio (531 AM)" tvg-logo="https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/308769228_469935555156495_5124837273143622109_n.png?_nc_cat=102&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=D8oGGlJnHooAX9JxlST&_nc_ht=scontent.fmnl13-1.fna&oh=00_AT-UfcjmcxmobAb6FTFszq39vh4G-KNHtGebfVOIUX74tw&oe=633D466F" group-title="AM",DZBR Bible Radio (531 AM)
+https://stream.radio.co/se9de95c10/listen
+
+#EXTINF:-1 radio="true" tvg-id="702 DZAS" tvg-name="702 DZAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/DZAS.svg/1200px-DZAS.svg.png" group-title="AM",702 DZAS
+http://sg-icecast.eradioportal.com:8000/febc_dzas
+
+#EXTINF:-1 radio="true" tvg-id="DWWW774" tvg-name="DWWW 774" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/DWWW_774_logo.png" group-title="AM",DWWW 774
+https://stream.zeno.fm/kc3cct89sxquv
