@@ -37,6 +37,9 @@ http://111.125.87.226:8000/streamfm
 #EXTINF:-1 radio="true" tvg-id="1011YesTheBest" tvg-name="101.1 Yes The Best!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Yes_The_Best_2021_Logo.png" group-title="FM",101.1 Yes The Best!
 https://s2.radio.co/sa85100da7/listen
 
+#EXTINF:-1 radio="true" tvg-id="1027STARFM" tvg-name="102.7 Star FM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/1027starfm.png" group-title="FM",Star FM 102.7
+http://node-31.zeno.fm/n51d54pctrquv
+
 #EXTINF:-1 radio="true" tvg-id="KLite1035" tvg-name="K-Lite 103.5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/K-LITE_1035_new.png" group-title="FM",K-Lite 103.5
 https://streamingv2.shoutcast.com/1035Klite
 
