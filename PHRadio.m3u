@@ -1,6 +1,9 @@
 #EXTINF:-1 radio="true" tvg-id="875Republ1kaFM1" tvg-name="87.5 Republ1ka FM1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Fm1ph-logo.png" group-title="FM",87.5 Republ1ka FM1
 http://122.53.138.32:8000/dzrm.mp3
 
+#EXTINF:-1 radio="true" tvg-id="MAGIC899" tvg-name="Magic 89.9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Magic89.9_logo.gif" group-title="FM",Magic 89.9
+https://stream-36.zeno.fm/sh37pvfd938uv
+
 #EXTINF:-1 radio="true" tvg-id="Jam883" tvg-name="Jam 88.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jam_88.3_logo_2012.png/800px-Jam_88.3_logo_2012.png" group-title="FM",Jam 88.3
 http://ph-icecast.eradioportal.com:8000/jam883
 
