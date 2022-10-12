@@ -55,7 +55,7 @@ http://sg-icecast.eradioportal.com:8000/q105
 #EXTINF:-1 radio="true" tvg-id="1067EnergyFM" tvg-name="106.7 Energy FM" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c8/106.7_Energy_FM_Logo_2014.png" group-title="FM",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/92.0.4515.131 Safari/537.36
 #EXTINF:-1 radio="true" tvg-name="Wish 107.5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/1200px-Wish_107.5_%282015%29.svg.png" group-title="FM",Wish 107.5
 https://play.wishfm.com/radio/wish.m3u8
 
