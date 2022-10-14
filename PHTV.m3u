@@ -1,3 +1,90 @@
 
 #EXTINF:-1 tvg-name="NET 25" tvg-logo="" group-title="TV",NET 25
 http://103.152.216.26:8443/live/Z0YTs-eIskWy2sfXUBeetQ/1665881867/204.m3u8
+
+#EXTINF:-1, LEGO Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Crackle TV
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, Sportsgrid
+https://sportsgrid-plex.amagi.tv:443/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vqz4yh6bLtqCBDZHxwGn&channelId=5ef11485d33ab9004048a1ca&uid=1gc4qohas-j21i-sa8-yz82-3fn7b5whz0l/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1920x1080_5385600/index.m3u8
+
+#EXTINF:-1, Mix Channel                                                                                          
+http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:3E:74:27&stream=514482&extension=ts&play_token=sILJccJDLK
+
+#EXTINF:-1, TMZ Sports
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxtmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, UFC Fight Pass 24/7
+http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:11:62:BC&stream=577041&extension=ts&play_token=IWdxu5JzPM
+
+#EXTINF:-1, Wired
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+
+#EXTINF:-1, Stingray Karaoke                                                      
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1, Tennis Channel International
+http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1, NBA TV HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+
+#EXTINF:-1, Sky Sports F1 UK
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7342/index.m3u8
+
+#EXTINF:-1, Motor Trend Channel
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1091/index.m3u8
+
+#EXTINF:-1, Disney XD
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1082/index.m3u8
+
+#EXTINF:-1, ESPN News US
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19154/index.m3u8
+
+#EXTINF:-1, Esports Network Revolution TV 24/7
+https://eyeonesports.com:443/1080/ESR-001SCTE35.m3u8
+
+#EXTINF:-1, IGN
+https://ign-plex.amagi.tv:443/playlistR1080p.m3u8
+
+#EXTINF:-1, Law and Crime Network TV
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+
+#EXTINF:-1, HBO HD
+http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce   
+
+#EXTINF:-1, BT SPORT ESPN / BT Sport 4
+http://198.16.64.10:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
+
+#EXTINF:-1, Animax
+http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
+
+#EXTINF:-1, KIX Channel
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1, Fight Network
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfightnetwork/CDN/playlist.m3u8
+
+#EXTINF:-1, HBO Signature
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+
+#EXTINF:-1, GQ Channel
+https://dai2.xumo.com/xumocdn/p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+
+#EXTINF:-1, REELZ Channel
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8#EXTINF:-1, Retrocrush Channel
+
+#EXTINF:-1, iQIYI Channel
+http://play.cornertv.biz.id:8080/streaming/clients_live.php?username=salatachi&password=135791&stream=180&extension=m3u8
+
+#EXTINF:-1, DAZN 1
+http://m5ip.club:8080/Zeljko62/a12FfaXnKW/35036?token=TkNRWEFYEVwTXV0EC1EEUQBSAlQPB1tXVgIIUgEGAANUVgkMAQEBXwNHFBFLFUVVAF5tDVJDWAIFAAoCH0BEQVATZlBWEglEBVMJERRDQ36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xBXAVaPgZURllaURFYX0dZDRUbXV5sAlQIWV36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xIAwxDGxICXEcKQhMbEwoScGARThNXTRVcV0FZXAgTXxpHS0MbEghAbRZTEhZDVVFUUUFACxAEQxUbX1FLOVIKVl36EkRHLyviZMtSjodB4gByQJwyYxPmBE1xFU0=
+
+#EXTINF:-1, Billiard TV
+https://dai.google.com/linear/hls/event/mjJPjhgDTtO5nvz4IdYE-Q/master.m3u8
+
+#EXTINF:-1, FLOWSPORTS
+https://dai.google.com/linear/hls/event/VoZhF0i4SJ2t5_GdpIPCJA/master.m3u8
