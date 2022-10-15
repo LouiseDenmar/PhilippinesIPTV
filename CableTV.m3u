@@ -1,6 +1,6 @@
 #EXTM3U="https://iptv-sniper.herokuapp.com/epg/skycable.php?format=xml"
 
-#EXTINF:-1 tvg-name="NET 25" tvg-logo="" group-title="TV",NET 25
+#EXTINF:-1 tvg-name="Net 25" tvg-logo="" group-title="TV",Net 25
 http://103.152.216.26:8443/live/Z0YTs-eIskWy2sfXUBeetQ/1665881867/204.m3u8
 
 #EXTINF:-1 tvg-id="usanetwork.com" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
