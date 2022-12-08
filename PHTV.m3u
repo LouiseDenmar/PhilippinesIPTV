@@ -1,10 +1,5 @@
-#EXTM3U="https://iptv-sniper.herokuapp.com/epg/skycable.php?format=xml"
+#EXTM3U="https://iptv-org.github.io/epg/guides/ph.xml"
 
-#EXTINF:-1 tvg-name="IBC 13" tvg-logo="https://www.tv5.com.ph/assets/images/IBA-sa-TV5-Loading-GIF.gif" group-title="TV",IBC 13
-http://103.152.216.26:8443/live/kTmYOFihts8WV3WmoZ4qXQ/1667237059/99.m3u8 
+#EXTINF:-1 tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/800px-UNTV-Logo-2016.svg.png" group-title="TV",UNTV
+https://www.youtube.com/@UNTVNewsandRescue/live 
 
-#EXTINF:-1 tvg-name="NET 25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Net25_newlogo_2020.png" group-title="TV",NET 25
-http://103.152.216.26:8443/live/3Q9-VC5bpmBRqedQlSVp1A/1667506596/204.m3u8
-
-#EXTINF:-1 tvg-name="One Sports" tvg-logo="" group-title="TV",One Sports
-http://103.152.216.26:8443/live/3Q9-VC5bpmBRqedQlSVp1A/1667506596/136.m3u8
