@@ -16,6 +16,9 @@ https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 radio="true" tvg-id="915WinRadio" tvg-name="91.5 Win Radio" tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg" group-title="FM",91.5 Win Radio
 https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1uDqRGfyGA&rj-ttl=5&rj-tok=AAABgfs21scAvxjFA2IsU9lIYA
 
+#EXTINF:-1 radio="true" tvg-id="923NewsFM" tvg-name="92.3 News FM Radyo Singko" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Radyo5_92.3_News_FM_Logo_2022.svg/800px-Radyo5_92.3_News_FM_Logo_2022.svg.png" group-title="FM",92.3 News FM Radyo Singko
+http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
+
 #EXTINF:-1 radio="true" tvg-id="MonsterRX931" tvg-name="Monster RX 93.1" tvg-logo="https://www.rx931.com/_nuxt/img/logo.962a9d7.png" group-title="FM",Monster RX 93.1
 https://ph-icecast-win.eradioportal.com:8443/monsterrx
 
@@ -58,10 +61,10 @@ http://sg-icecast.eradioportal.com:8000/q105
 #EXTINF:-1 radio="true" tvg-id="1067EnergyFM" tvg-name="106.7 Energy FM" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c8/106.7_Energy_FM_Logo_2014.png" group-title="FM",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
-
 #EXTINF:-1 radio="true" tvg-name="Wish 107.5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/1200px-Wish_107.5_%282015%29.svg.png" group-title="FM",Wish 107.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://play.wishfm.com/radio/wish.m3u8
+
 
 #EXTINF:-1 radio="true" tvg-id="BibleRadio" tvg-name="DZBR Bible Radio (531 AM)" tvg-logo="https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/308769228_469935555156495_5124837273143622109_n.png?_nc_cat=102&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_ohc=D8oGGlJnHooAX9JxlST&_nc_ht=scontent.fmnl13-1.fna&oh=00_AT-UfcjmcxmobAb6FTFszq39vh4G-KNHtGebfVOIUX74tw&oe=633D466F" group-title="AM",DZBR Bible Radio (531 AM)
 https://stream.radio.co/se9de95c10/listen
