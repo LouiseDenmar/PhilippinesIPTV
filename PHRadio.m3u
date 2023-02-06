@@ -4,6 +4,9 @@ http://122.53.138.32:8000/dzrm.mp3
 #EXTINF:-1 radio="true" tvg-id="Jam883" tvg-name="Jam 88.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jam_88.3_logo_2012.png/800px-Jam_88.3_logo_2012.png" group-title="FM",Jam 88.3
 http://ph-icecast.eradioportal.com:8000/jam883
 
+#EXTINF:-1 radio="true" tvg-id="Wave891" tvg-name="Wave 89.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Wave891logo.png" group-title="FM",Wave 89.1
+https://stream.zenolive.com/snugpr3shpeuv
+
 #EXTINF:-1 radio="true" tvg-id="MAGIC899" tvg-name="Magic 89.9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Magic89.9_logo.gif" group-title="FM",Magic 89.9
 https://stream-36.zeno.fm/sh37pvfd938uv
 
