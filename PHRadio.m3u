@@ -74,3 +74,9 @@ http://sg-icecast.eradioportal.com:8000/febc_dzas
 
 #EXTINF:-1 radio="true" tvg-id="DWWW774" tvg-name="DWWW 774" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/DWWW_774_logo.png" group-title="AM",DWWW 774
 https://stream.zeno.fm/kc3cct89sxquv
+
+#EXTINF:-1 radio="true" tvg-id="PINOYCLASSICSONGS" tvg-name="Pinoy Classic Songs" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/23705.v2.png" group-title="Online",Pinoy Classic Songs
+https://eu1.fastcast4u.com/proxy/pinoycla?mp=/1
+
+#EXTINF:-1 radio="true" tvg-id="Tee Radio" tvg-name="Tee Radio" tvg-logo="https://teeradio.net/wp-content/uploads/2019/01/logo-tee-radio-2019-.png" group-title="Online",Tee Radio
+https://stream.zeno.fm/7neg6f1hbm0uv
