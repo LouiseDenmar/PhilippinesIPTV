@@ -1,7 +1,7 @@
 #EXTINF:-1 radio="true" tvg-id="875Republ1kaFM1" tvg-name="87.5 Republ1ka FM1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Fm1ph-logo.png" group-title="FM",87.5 Republ1ka FM1
 http://122.53.138.32:8000/dzrm.mp3
 
-#EXTINF:-1 radio="true" tvg-id="Jam883" tvg-name="Jam 88.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jam_88.3_logo_2012.png/800px-Jam_88.3_logo_2012.png" group-title="FM",Jam 88.3
+#EXTINF:-1 radio="true" tvg-id="Jam883" tvg-name="Jam 88.3" tvg-logo="https://raw.githubusercontent.com/LouiseDenmar/PhilippinesIPTV/main/images__9_-removebg-preview.png" group-title="FM",Jam 88.3
 http://ph-icecast.eradioportal.com:8000/jam883
 
 #EXTINF:-1 radio="true" tvg-id="Wave891" tvg-name="Wave 89.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Wave891logo.png" group-title="FM",Wave 89.1
@@ -13,13 +13,13 @@ https://stream-36.zeno.fm/sh37pvfd938uv
 #EXTINF:-1 radio="true" tvg-id="907LoveRadio" tvg-name="90.7 Love Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/1200px-Love_Radio_%28Philippine_radio_station%29_logo.png" group-title="FM",90.7 Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
 
-#EXTINF:-1 radio="true" tvg-id="915WinRadio" tvg-name="91.5 Win Radio" tvg-logo="https://winradioph.net/wp-content/uploads/Manila.jpg" group-title="FM",91.5 Win Radio
+#EXTINF:-1 radio="true" tvg-id="915WinRadio" tvg-name="91.5 Win Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Winradiomanila.jpg" group-title="FM",91.5 Win Radio
 https://node-22.zeno.fm/7r5de9h96nhvv?zs=yL_62hnuRJSvNTB12NHgnw&zs=iZR7wIbCTYOp1uDqRGfyGA&rj-ttl=5&rj-tok=AAABgfs21scAvxjFA2IsU9lIYA
 
 #EXTINF:-1 radio="true" tvg-id="923NewsFM" tvg-name="92.3 News FM Radyo Singko" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Radyo5_92.3_News_FM_Logo_2022.svg/800px-Radyo5_92.3_News_FM_Logo_2022.svg.png" group-title="FM",92.3 News FM Radyo Singko
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 
-#EXTINF:-1 radio="true" tvg-id="MonsterRX931" tvg-name="Monster RX 93.1" tvg-logo="https://www.rx931.com/_nuxt/img/logo.962a9d7.png" group-title="FM",Monster RX 93.1
+#EXTINF:-1 radio="true" tvg-id="MonsterRX931" tvg-name="Monster RX 93.1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Rx931fm.png" group-title="FM",Monster RX 93.1
 https://ph-icecast-win.eradioportal.com:8443/monsterrx
 
 #EXTINF:-1 radio="true" tvg-id="IFM" tvg-name="93.9 iFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/93.9_iFM_Logo_2018.png/120px-93.9_iFM_Logo_2018.png" group-title="FM",93.9 iFM
@@ -28,7 +28,7 @@ https://magic.radioca.st/stream
 #EXTINF:-1 radio="true" tvg-id="Mellow947" tvg-name="Mellow 94.7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Mellow_947.png" group-title="FM",Mellow 94.7
 https://s3.free-shoutcast.com/stream/18342/
 
-#EXTINF:-1 radio="true" tvg-id="963EasyRock" tvg-name="96.3 Easy Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Easy_Rock_Logo_2009.png" group-title="FM",96.3 Easy Rock
+#EXTINF:-1 radio="true" tvg-id="963EasyRock" tvg-name="96.3 Easy Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/New_modernized_logo_of_96.3_Easy_Rock_-_Vectorized_via_InkScape.svg" group-title="FM",96.3 Easy Rock
 https://s4.radio.co/s778110174/listen
 
 #EXTINF:-1 radio="true" tvg-id="97.9 Home Radio" tvg-name="97.9 Home Radio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HOME-RADIO-LOGO-2017.png" group-title="FM",97.9 Home Radio
