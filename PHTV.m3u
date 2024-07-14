@@ -1,5 +1,0 @@
-#EXTM3U="https://iptv-org.github.io/epg/guides/ph.xml"
-
-#EXTINF:-1 tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/800px-UNTV-Logo-2016.svg.png" group-title="TV",UNTV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@UNTVNewsandRescue/live 
-
